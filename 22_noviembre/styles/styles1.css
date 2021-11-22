@@ -1,0 +1,32 @@
+
+   a{
+        width: 100px;
+        height: 100px;
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        border: 2px solid #22819A;
+        background-color: #eef3f5;
+        text-align: center;
+        padding-top: 60px;
+    }
+
+   img{
+       position: relative;
+       width: 150px;
+       height: 100px;
+       top: 100px;
+       left: 500px;
+
+   }
+   h1{
+       color: #22819A;
+       text-align: center;
+   }
+   body{
+       background-image: url(../imagen/fondo.jpg);
+   }
+    
+
+
+
